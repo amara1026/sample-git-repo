@@ -1,1 +1,3 @@
-This is readme file and edited version
+
+This is readme file is edited version of master
+for merge conflict
